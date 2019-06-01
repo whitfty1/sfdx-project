@@ -130,6 +130,18 @@
             </componentInstanceProperties>
             <componentName>PictureGalleryCard</componentName>
         </componentInstances>
+         <name>latField</name>
+                <value>Location__Latitude__s</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>longField</name>
+                <value>Location__Longitude__s</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>titleField</name>
+                <value>Name</value>
+            </componentInstanceProperties>
+            <componentName>MapCard</componentName>
         <componentInstances>
             <componentInstanceProperties>
                 <name>tabs</name>
